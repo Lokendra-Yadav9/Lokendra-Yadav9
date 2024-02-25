@@ -40,8 +40,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Lokendra-Yadav9&theme=onedark" alt="Layout with last medium posts"  />
-</div>
-
 ###
