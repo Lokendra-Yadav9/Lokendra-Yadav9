@@ -54,6 +54,8 @@
 
 ###
 
-![snake animation](https://raw.githubusercontent.com/Lokendra-Yadav9/Lokendra-Yadav9/main/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/Lokendra-Yadav9/Lokendra-Yadav9/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
